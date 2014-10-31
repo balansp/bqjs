@@ -8,7 +8,7 @@ BQ.js is a lightest javascript framework. BQ is simpler and easy-to-use. Like mo
 
 ====
 
-Documentation
+####Documentation
 
 The bq.js syntax is very easy to learn, which is tailor made for selecting the HTML element(s) and performing some action on the selected element(s). The bq.js selectors uses javascript queryselector function internally.
 
@@ -18,4 +18,4 @@ $bq(selector).action();
 
 >Where, $bq = $bq is the sign to access balquery,(Selector) = Query Selector string, action() = function
 
-Selectors
+#####Selectors
