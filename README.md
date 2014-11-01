@@ -62,3 +62,22 @@ The bq.js has only limited number of function which is more than enough to make 
 * parent
 * ajax
 * each 
+
+====
+
+####.start()
+The start function executes when the page Document Object Model (DOM) is ready.
+#####Syntax
+
+```javascript
+$bq().start(function);
+```
+
+#####Example
+```javascript
+$bq().start(function(){
+	alert("Hello World!");
+});
+```
+
+
