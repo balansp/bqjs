@@ -25,40 +25,40 @@ The bq.js uses javascript Query Selector function which takes any valid css sele
 #####Actions
 The bq.js has only limited number of function which is more than enough to make a small to medium range projects. The bq.js has following list of function.
 
-*start
-*router
-*on
-*html
-*val
-*append
-*prepend
-*remove
-*show
-*hide
-*addClass
-*removeClass
-*hasClass
-*attr
-*removeAttr
-*css
-*parent
-*ajax
-*eachstart
-*router
-*on
-*html
-*val
-*append
-*prepend
-*remove
-*show
-*hide
-*addClass
-*removeClass
-*hasClass
-*attr
-*removeAttr
-*css
-*parent
-*ajax
-*each
+* start
+* router
+* on
+* html
+* val
+* append
+* prepend
+* remove
+* show
+* hide
+* addClass
+* removeClass
+* hasClass
+* attr
+* removeAttr
+* css
+* parent
+* ajax
+* eachstart
+* router
+* on
+* html
+* val
+* append
+* prepend
+* remove
+* show
+* hide
+* addClass
+* removeClass
+* hasClass
+* attr
+* removeAttr
+* css
+* parent
+* ajax
+* each 
